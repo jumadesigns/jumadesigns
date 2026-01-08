@@ -67,7 +67,7 @@ Model routing and governance layer inspired by AWS Bedrock patterns.
 
 ## 📄 Resume
 📎 Senior AI Engineer (Government / Regulated Focus), Full Stack and UI/UX Developer  
-➡️ *Available upon request or linked here*
+➡️ *Available upon request 
 
 ---
 
